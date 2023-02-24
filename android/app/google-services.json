@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650658923403",
+    "project_id": "fir-exam-222cb",
+    "storage_bucket": "fir-exam-222cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650658923403:android:b2b1340b7c456f4697258e",
+        "android_client_info": {
+          "package_name": "com.example.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650658923403-i7fopsv1ki79vir2q427u9jbt5hj4h3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDQLBshULGXKP6In3J3c80cXq9x8DuF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650658923403-i7fopsv1ki79vir2q427u9jbt5hj4h3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
